@@ -3,6 +3,8 @@ Text2Markdown
 
 A **React-based web application** that converts text from Word, Google Docs, or any other source into clean Markdown. It provides an easy-to-use interface for pasting rich text or HTML and instantly generating Markdown with support for headers, tables, and other formatting.
 
+For a demo of this please visit [DEMO](https://text2md.vercel.app/).
+
 Features
 --------
 
